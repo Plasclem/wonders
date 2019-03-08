@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>xyz.caravanserail.wonders</groupId>
+  <artifactId>xyz.caravanserail.wonders</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Wonders</name>
+  <description>7 wonders project</description>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>wonders-exposition</module>
+  	<module>wonders-ui</module>
+  	<module>wonders-domain</module>
+  	<module>wonders-application</module>
+  	<module>wonders-infrastructure</module>
+  </modules>
+</project>
